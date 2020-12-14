@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/pgwcfx
  
 ### LinkedIn
-https://www.linkedin.com/in/paul-w-228939139/
+https://www.linkedin.com/in/p-g-williams/
 
 ### Resume
 https://docs.google.com/document/d/1uxS_EAuPqo2HQtQ-YPJ205-DiX77E7crt7fBRxlLjrc/edit?usp=sharing
